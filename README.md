@@ -40,10 +40,3 @@ Contributions are welcome! If you wish to contribute to this project, please for
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For more information or inquiries, contact:
-- **Name:** Dhruvesh
-- **Email:** dhruvesh@example.com (replace with your email)
-
-Thank you for your interest in our project!
